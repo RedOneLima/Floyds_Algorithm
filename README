@@ -1,0 +1,7 @@
+This will accept a file as a command line arguement
+If no command line arguments are provided then the user will be prompted to
+enter the values at run time. 
+
+Please see javadoc (Floyd.html) in docs directory 
+
+Kyle Hewitt
